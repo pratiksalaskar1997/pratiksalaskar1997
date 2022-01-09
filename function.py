@@ -1,4 +1,4 @@
-'''
+
 =====================================
 name = ['pratik','rohit','pradeep','amol']
 # print([word[0] for word in name])
@@ -322,4 +322,3 @@ def fact(n):
         result = n * fact(n - 1)
         return  result
 print(fact(6))
-'''
