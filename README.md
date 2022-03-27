@@ -1,4 +1,4 @@
-<p><img align="left" alt="gif" src="https://github.com/pratiksalaskar1997/pratiksalaskar1997/blob/main/developer-dribbble.gif"/>
+<p><img align="center" alt="gif" src="https://github.com/pratiksalaskar1997/pratiksalaskar1997/blob/main/developer-dribbble.gif"/>
 
   <h1 align="center">Hi 👋, I'm Pratik Salaskar</h1>
 <h3 align="center">"if you can't explain it simply, you don't understand it well enough"</h3>
