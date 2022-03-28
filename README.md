@@ -1,7 +1,8 @@
 
 <p><img align="left" alt="gif" src="https://github.com/pratiksalaskar1997/pratiksalaskar1997/blob/main/robot_animated.gif"/>
 
-  <h1 align="center">Hi 👋, I'm Pratik Salaskar</h1>
+ <h1 align="center">Hi 👋, I'm Pratik Salaskar</h1>
+
 <h3 align="center">"if you can't explain it simply, you don't understand it well enough"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksalaskar1997&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksalaskar1997" /> </p>
