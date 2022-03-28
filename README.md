@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **pratiksalaskar1997@gmail.com**
 
-- ⚡ Fun fact **I think i'm Funny**
+- <h2 align="left">⚡ About Me:</h2>
+- <h4 align="left">Python Expert</h4>
+- <h4 align="left">Machine Learning Enthusiast</h4>
+- <h4 align="left">Use a creative approach to problem solve</h4>
+- <h4 align="left">Eager to learn new skills</h4>     
 
 
 <h3 align="left">Connect with me:</h3>
